@@ -1,6 +1,6 @@
 [project]
 name = "rlane-netflix"
-version = "1.0.0"
+version = "1.0.1"
 description = "Netflix history report"
 authors = [
     {name = "Russel Lane", email = "russel@rlane.com"}

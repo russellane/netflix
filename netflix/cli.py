@@ -11,6 +11,11 @@ from netflix.netflix import Netflix
 class NetflixCLI(BaseCLI):
     """Command line interface."""
 
+    config = {
+        # distribution name, not importable package name
+        "dist-name": "rlane-netflix",
+    }
+
     def init_parser(self) -> None:
         """Initialize argument parser."""
 
