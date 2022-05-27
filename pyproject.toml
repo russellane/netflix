@@ -1,5 +1,5 @@
 [project]
-name = "netflix"
+name = "rlane-netflix"
 version = "1.0.0"
 description = "Netflix history report"
 authors = [
@@ -7,7 +7,7 @@ authors = [
 ]
 license = {text = "MIT"}
 readme = "README.md"
-keywords = ["netflix", "history"]
+keywords = ["netflix", "python"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: End Users/Desktop",
@@ -17,7 +17,7 @@ classifiers = [
 ]
 requires-python = ">=3.8"
 dependencies = [
-    "libcli>=1.0.0",
+    "rlane-libcli>=1.0.2",
 ]
 
 [project.urls]
