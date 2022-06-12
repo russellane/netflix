@@ -1,3 +1,4 @@
+import os
 from pathlib import Path
 
 import pytest
@@ -21,6 +22,8 @@ DIRS = {
 )
 def test_netflix(basename, monkeypatch, capsys):
     """Read input file, write output file, compare with expected file."""
+
+    os.makedirs(DIRS["output"], exist_ok=True)
 
     path_input = DIRS["input"].joinpath(basename).with_suffix(".csv")
     path_output = DIRS["output"].joinpath(basename).with_suffix(".txt")
