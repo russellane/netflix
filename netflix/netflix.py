@@ -83,8 +83,8 @@ class Netflix:
         title = self.IFS.join(title_parts)
         if not episode:
             episode = self.IFS.join(subtitle_parts)
-        else:
-            assert len(subtitle_parts) == 0
+        # else:
+        #     assert len(subtitle_parts) == 0
 
         return title, season, episode
 
