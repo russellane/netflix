@@ -120,7 +120,7 @@ class Netflix:
 
             # series, seasons, episodes
             elif not filtered or self.options.series2_only:
-                n_episodes = sum([len(episodes) for episodes in seasons.values()])
+                n_episodes = sum(len(episodes) for episodes in seasons.values())
                 date = max(list(list(seasons.values())[0].values()))
                 print(
                     date
