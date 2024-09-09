@@ -1,7 +1,6 @@
 """Command line interface."""
 
 import contextlib
-from typing import List, Optional
 
 from libcli import BaseCLI
 
@@ -74,6 +73,6 @@ class NetflixCLI(BaseCLI):
             netflix.print_report()
 
 
-def main(args: Optional[List[str]] = None) -> None:
+def main(args: list[str] | None = None) -> None:
     """Command line interface entry point (function)."""
-    return NetflixCLI(args).main()
+    NetflixCLI(args).main()

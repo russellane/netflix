@@ -20,7 +20,7 @@ class Netflix:
     OFS = ", "
     INDENT = " " * 4
 
-    def __init__(self, options: argparse.ArgumentParser) -> None:
+    def __init__(self, options: argparse.Namespace) -> None:
         """Docstring."""
 
         self.options = options
