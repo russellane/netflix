@@ -4,7 +4,7 @@
     netflix [--seasons] [--episodes] [--movies-only] [--series1-only]
             [--series2-only] [-h] [-v] [-V] [--print-config] [--print-url]
             [--completion [SHELL]]
-            [FILE]
+            [FILE ...]
     
 Print list of Titles, number of Seasons and total number of Episodes.
 

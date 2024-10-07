@@ -18,9 +18,11 @@ DIRS = {
     ("basename"),
     [
         ("file1"),
+        ("file2"),
+        ("file3"),
     ],
 )
-def test_netflix(basename, monkeypatch, capsys):
+def test_netflix(basename, monkeypatch, capsys) -> None:  # type: ignore
     """Read input file, write output file, compare with expected file."""
 
     os.makedirs(DIRS["output"], exist_ok=True)

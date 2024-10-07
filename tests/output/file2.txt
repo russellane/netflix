@@ -1,16 +1,123 @@
-2022-02-27    The Stranded, 1 season, 7 episodes
-2022-02-27    3%, 1 season, 2 episodes
-2022-02-26    Vikings: Valhalla, 1 season, 8 episodes
+2022-08-22    Baahubali 2, 1 episode
+2022-08-20    The Girl in the Mirror, 1 episode
+2022-08-20    Echoes, 1 season, 3 episodes
+2022-08-13    The Sandman, 2 episodes
+2022-07-17    The Man from Toronto
+2022-07-16    Resident Evil, 1 episode
+2022-06-29    The Umbrella Academy, 3 seasons, 21 episodes
+2022-06-20    The Wrath of God
+2022-06-16    Hotel Del Luna, 15 episodes
+2022-06-12    Baahubali, 1 episode
+2022-06-12    Brahms, 1 episode
+2022-06-10    Interceptor
+2022-06-10    Peaky Blinders, 6 seasons, 31 episodes
+2022-05-31    Outlander, 1 season, 14 episodes
+2022-05-29    RRR (Hindi)
+2022-05-28    Wrong Side of the Tracks, 2 episodes
+2022-05-27    The Beauty Queen of Jerusalem, 1 season, 4 episodes
+2022-05-22    Servant of the People, 2 seasons, 44 episodes
+2022-05-22    The Lincoln Lawyer, 1 season, 3 episodes
+2022-05-21    Charlie and the Chocolate Factory
+2022-05-13    Our Father
+2022-05-13    Welcome to Eden, 3 episodes
+2022-05-11    Oats Studios, 4 episodes
+2022-05-11    The Sound of Magic, 1 episode
+2022-05-09    Wild Babies, 1 episode
+2022-05-08    Clark, 1 season, 5 episodes
+2022-05-08    The Pentaverate, 1 episode
+2022-05-08    Cable Girls, 1 season, 1 episode
+2022-05-04    Altered Carbon, 1 season, 1 episode
+2022-05-03    Ragnarok, 2 seasons, 7 episodes
+2022-05-03    The Protector, 2 seasons, 11 episodes
+2022-05-03    Gangubai Kathiawadi
+2022-05-02    Blade Runner 2049
+2022-05-02    Top Boy, 1 season, 1 episode
+2022-05-02    Quantico, 1 season, 1 episode
+2022-05-02    Wanted, 1 season, 1 episode
+2022-05-02    The Adolf Eichmann Trial
+2022-05-02    Honeymoon with My Mother
+2022-05-02    Rumspringa - An Amish in Berlin
+2022-05-02    The Midnight Sky
+2022-05-01    Bullsh*t The Gameshow, 1 episode
+2022-04-29    The 7 Lives of Lea, 1 season, 7 episodes
+2022-04-29    My Octopus Teacher
+2022-04-29    The Lost Pirate Kingdom, 2 episodes
+2022-04-29    365 Days
+2022-04-28    Silverton Siege
+2022-04-28    Wild Wild Country, 1 season, 1 episode
+2022-04-26    Brazen
+2022-04-26    Our Great National Parks, 1 season, 3 episodes
+2022-04-25    Maniac, 1 season, 10 episodes
+2022-04-25    Yakamoz S-245, 4 episodes
+2022-04-25    White Hot, 1 episode
+2022-04-25    The Devil All The Time
+2022-04-24    The Marked Heart, 1 season, 14 episodes
+2022-04-24    Stranger Things, 24 episodes
+2022-04-24    Pretend It’s a City, 1 season, 1 episode
+2022-04-23    I Don't Feel at Home in This World Anymore
+2022-04-23    The Turning Point
+2022-04-23    Hold Tight, 1 season, 6 episodes
+2022-04-22    Conversations with a Killer: The John Wayne Gacy Tapes, 1 season, 3 episodes
+2022-04-22    Mi Obra Maestra
+2022-04-21    Russian Doll, 2 seasons, 15 episodes
+2022-04-18    Heirs to the Land, 1 episode
+2022-04-18    The Taming of the Shrewd
+2022-04-18    Dirty Lines, 1 episode
+2022-04-18    Mai: A Mother's Rage, 6 episodes
+2022-04-17    Jimmy Savile: A British Horror Story, 1 season, 1 episode
+2022-04-17    Anatomy of a Scandal, 1 season, 6 episodes
+2022-04-15    Choose or Die
+2022-04-12    Metal Lords
+2022-04-11    Better Call Saul, 5 seasons, 50 episodes
+2022-04-11    Return to Space
+2022-04-08    Furioza
+2022-04-07    Trivia Quest, 1 episode
+2022-04-06    Midnight Mass, 1 season, 7 episodes
+2022-04-04    The Bubble
+2022-04-04    All Hail
+2022-04-03    The Last Bus, 1 episode
+2022-04-02    Wild Abandon, 1 season, 8 episodes
+2022-04-02    Captain Nova
+2022-04-02    Trust No One, 1 episode
+2022-03-28    Bridgerton, 1 season, 2 episodes
+2022-03-28    Juvenile Justice, 1 episode
+2022-03-27    Dark Matter, 1 season, 4 episodes
+2022-03-27    The Chosen One, 1 season, 2 episodes
+2022-03-26    Glitch, 1 season, 1 episode
+2022-03-25    Into the Night, 1 season, 4 episodes
+2022-03-25    The I-Land, 1 season, 3 episodes
+2022-03-24    Occupied, 3 seasons, 24 episodes
+2022-03-24    Tribes of Europa, 2 seasons, 2 episodes
+2022-03-22    Bad Vegan: Fame. Fraud. Fugitives., 1 season, 1 episode
+2022-03-21    The Last Kingdom, 2 seasons, 12 episodes
+2022-03-21    Windfall
+2022-03-21    Soil, 1 episode
+2022-03-21    Resurrection: Ertugrul, 5 seasons, 448 episodes
+2022-03-20    Cracow Monsters, 2 episodes
+2022-03-20    Black Crab
+2022-03-19    Better Than Us, 16 episodes
+2022-03-15    Norsemen, 1 season, 3 episodes
+2022-03-15    The Adam Project
+2022-03-13    Midnight at the Pera Palace, 4 episodes
+2022-03-13    Saladin
+2022-03-13    Two Sentence Horror Stories, 1 season, 2 episodes
+2022-03-11    The Pirates, 1 episode
+2022-03-09    PIECES OF HER, 4 episodes
+2022-03-07    Fallet, 8 episodes
+2022-03-03    Against The Ice
+2022-03-03    Fistful of Vengeance
+2022-03-02    3%, 2 seasons, 9 episodes
+2022-02-27    The Stranded, 7 episodes
+2022-02-26    Vikings, 8 episodes
 2022-02-26    Restless
-2022-02-24    To the Lake, 1 season, 8 episodes
-2022-02-23    The Umbrella Academy, 2 seasons, 20 episodes
+2022-02-24    To the Lake, 8 episodes
 2022-02-23    Alice in Borderland, 1 season, 3 episodes
-2022-02-22    The Silent Sea, 1 season, 6 episodes
+2022-02-22    The Silent Sea, 6 episodes
 2022-02-22    The Rain, 1 season, 2 episodes
-2022-02-22    Fishbowl Wives, 1 season, 4 episodes
+2022-02-22    Fishbowl Wives, 4 episodes
 2022-02-21    Don't Kill Me
 2022-02-21    The Sinner, 1 season, 8 episodes
-2022-02-20    My Name, 1 season, 8 episodes
+2022-02-20    My Name, 8 episodes
 2022-02-19    Young Wallander, 1 season, 6 episodes
 2022-02-19    Young Wallander: Killer's Shadow, 1 episode
 2022-02-19    Space Force, 1 season, 2 episodes
@@ -19,44 +126,42 @@
 2022-02-16    Liar's Dice
 2022-02-15    Inventing Anna, 1 season, 9 episodes
 2022-02-15    Bigbug
-2022-02-13    Framed! A Sicilian Murder Mystery, 1 season, 2 episodes
-2022-02-12    The Journalist, 1 season, 2 episodes
+2022-02-13    Framed! A Sicilian Murder Mystery, 2 episodes
+2022-02-12    The Journalist, 2 episodes
 2022-02-11    The Book of Eli
 2022-02-10    Yeh Kaali Kaali Ankhein, 1 season, 3 episodes
 2022-02-10    The Privilege
-2022-02-10    Brazen
-2022-02-08    Feria: The Darkest Light, 1 season, 8 episodes
+2022-02-08    Feria, 8 episodes
 2022-02-05    My Father's Violin
 2022-02-05    Raising Dion, 1 season, 5 episodes
-2022-02-05    Chosen, 1 season, 6 episodes
-2022-02-03    The Woman in the House Across the Street from the Girl in the Window, 1 season, 8 episodes
-2022-02-02    Safe, 1 season, 8 episodes
+2022-02-05    Chosen, 6 episodes
+2022-02-03    The Woman in the House Across the Street from the Girl in the Window, 8 episodes
+2022-02-02    Safe, 8 episodes
 2022-02-01    All of Us Are Dead, 1 season, 5 episodes
-2022-02-01    In From the Cold, 1 season, 2 episodes
-2022-01-29    The Last Kingdom, 2 seasons, 12 episodes
-2022-01-27    Newton's Cradle, 1 season, 30 episodes
+2022-02-01    In From the Cold, 2 episodes
+2022-01-27    Newton's Cradle, 30 episodes
 2022-01-23    The Innocent, 1 season, 8 episodes
-2022-01-22    Archive 81, 1 season, 8 episodes
+2022-01-22    Archive 81, 8 episodes
 2022-01-22    Munich – The Edge of War
 2022-01-20    Shadow and Bone, 1 season, 8 episodes
 2022-01-20    The God Committee
 2022-01-16    Another Life, 1 season, 2 episodes
 2022-01-16    The Colony
 2022-01-15    After Life, 2 seasons, 11 episodes
-2022-01-15    Bulgasal: Immortal Souls, 1 season, 1 episode
-2022-01-12    Luna Nera, 1 season, 5 episodes
+2022-01-15    Bulgasal: Immortal Souls, 1 episode
+2022-01-12    Luna Nera, 5 episodes
 2022-01-12    Qin Empire: Alliance: The Qin Empire, 1 episode
 2022-01-08    The Wasteland
-2022-01-06    Cursed, 1 season, 6 episodes
+2022-01-06    Cursed, 6 episodes
 2021-08-25    The Witcher, 1 episode
 2022-01-03    Making The Witcher, 1 season, 1 episode
 2022-01-03    Lost in Space, 2 seasons, 9 episodes
 2022-01-01    Stay Close, 1 season, 8 episodes
-2021-12-31    The Girl from Oslo, 1 season, 10 episodes
+2021-12-31    The Girl from Oslo, 10 episodes
 2021-12-31    Light the Night, 1 season, 1 episode
-2021-12-29    The King's Affection, 1 season, 15 episodes
+2021-12-29    The King's Affection, 15 episodes
 2021-12-28    Don't Look Up
-2021-12-24    Aranyak, 1 season, 2 episodes
+2021-12-24    Aranyak, 2 episodes
 2021-12-21    The Battleship Island
 2021-12-20    The Shack
 2021-12-16    The Unforgivable
@@ -65,12 +170,11 @@
 2021-12-02    The Whole Truth
 2021-11-30    Prayers for the Stolen
 2021-11-29    The Crowned Clown, 16 episodes
-2021-11-29    Hotel Del Luna, 1 season, 15 episodes
-2021-11-22    Hellbound, 1 season, 6 episodes
+2021-11-22    Hellbound, 6 episodes
 2021-11-22    The Nightingale
 2021-11-20    The Fortress
 2021-11-15    Red Notice
-2021-11-14    Glória, 1 season, 3 episodes
+2021-11-14    Glória, 3 episodes
 2021-11-06    The Harder They Fall
 2021-11-06    The Club, 1 season, 1 episode
 2021-11-03    Victoria & Abdul
@@ -79,53 +183,51 @@
 2021-10-21    The Forgotten Battle
 2021-10-18    You, 2 seasons, 11 episodes
 2021-10-18    The Trip
-2021-10-17    The Five Juanas, 1 season, 17 episodes
+2021-10-17    The Five Juanas, 17 episodes
 2021-10-14    Dave Chappelle, 2 episodes
 2021-10-13    House of Secrets: The Burari Deaths, 1 season, 1 episode
 2021-10-13    The Billion Dollar Code, 1 season, 1 episode
-2021-10-12    Equinox, 1 season, 2 episodes
+2021-10-12    Equinox, 2 episodes
 2021-10-12    Talladega Nights, 1 episode
-2021-10-12    Luna Park, 1 season, 1 episode
-2021-10-07    The Chestnut Man, 1 season, 6 episodes
+2021-10-12    Luna Park, 1 episode
+2021-10-07    The Chestnut Man, 6 episodes
 2021-10-04    The Guilty
 2021-10-02    Maid, 1 season, 10 episodes
 2021-09-28    Je Suis Karl
 2021-09-27    Intrusion
-2021-09-25    Midnight Mass, 1 season, 2 episodes
-2021-09-23    Jaguar, 1 season, 2 episodes
+2021-09-23    Jaguar, 2 episodes
 2021-09-20    The Stronghold
 2021-09-19    Squid Game, 1 season, 9 episodes
 2021-09-19    The Father Who Moves Mountains
-2021-09-18    Justice, 1 season, 6 episodes
-2021-09-18    In the Bosom of a Thorn, 1 season, 1 episode
+2021-09-18    Justice, 6 episodes
+2021-09-18    In the Bosom of a Thorn, 1 episode
 2021-09-12    Kate
-2021-09-11    The Chosen One, 1 season, 2 episodes
 2021-09-11    Signs, 1 season, 1 episode
 2021-09-11    Prey
 2021-09-10    Level 16
-2021-09-09    Black Crows, 1 season, 30 episodes
-2021-09-09    Into the Night, 1 season, 1 episode
-2021-09-09    On the Verge, 1 season, 1 episode
-2021-09-07    The Frozen Dead, 1 season, 2 episodes
+2021-09-09    Black Crows, 30 episodes
+2021-09-09    On the Verge, 1 episode
+2021-09-07    The Frozen Dead, 2 episodes
 2021-09-06    Money Heist, 1 season, 10 episodes
 2021-09-06    Afterlife of the Party
-2021-09-05    The Chalet, 1 season, 6 episodes
+2021-09-05    The Chalet, 6 episodes
 2021-09-05    Whispers, 1 season, 1 episode
-2021-09-05    Black Space, 1 season, 8 episodes
-2021-09-04    Yunus Emre, 2 seasons, 25 episodes
-2021-09-04    Caliphate, 1 season, 8 episodes
-2021-09-01    TURN: Washington's Spies, 4 seasons, 40 episodes
+2021-09-05    Black Space, 8 episodes
+2021-09-03    Yunus Emre, 22 episodes
+2021-09-04    Caliphate, 8 episodes
+2021-09-01    TURN: Washington's Spies, 3 seasons, 30 episodes
 2021-09-01    Bob Ross, 1 episode
 2021-09-01    D.P., 1 season, 3 episodes
+2021-08-30    TURN, 10 episodes
 2021-08-29    Thimmarusu
 2021-08-29    King of Boys: The Return of the King, 1 season, 1 episode
 2021-08-29    The Water Man
 2021-08-28    Clickbait, 1 season, 8 episodes
 2021-08-28    The Old Ways
-2021-08-27    Post Mortem: No One Dies in Skarnes, 1 season, 6 episodes
-2021-08-27    Open Your Eyes, 1 season, 1 episode
+2021-08-27    Post Mortem, 6 episodes
+2021-08-27    Open Your Eyes, 1 episode
 2021-08-27    SAS, 1 episode
-2021-08-26    Everything Will Be Fine, 1 season, 3 episodes
+2021-08-26    Everything Will Be Fine, 3 episodes
 2021-08-25    Boomika
 2021-08-24    Panipat - The Great Betrayal
 2021-08-24    Miss India
@@ -137,22 +239,22 @@
 2021-08-22    Pagglait
 2021-08-22    Toilet, 1 episode
 2021-08-21    Brand New Cherry Flavor, 1 season, 6 episodes
-2021-08-21    The Chair, 1 season, 3 episodes
-2021-08-20    Mine, 1 season, 16 episodes
+2021-08-21    The Chair, 3 episodes
+2021-08-20    Mine, 16 episodes
 2021-08-20    Black Island
-2021-08-20    The Defeated, 1 season, 3 episodes
+2021-08-20    The Defeated, 3 episodes
 2021-08-20    Sweet Girl
-2021-08-20    When Heroes Fly, 1 season, 10 episodes
+2021-08-20    When Heroes Fly, 10 episodes
 2021-08-20    Motichoor Chaknachoor
 2021-08-17    Misha and the Wolves
 2021-08-16    Gone for Good, 1 season, 5 episodes
-2021-08-16    The Kingdom, 1 season, 8 episodes
+2021-08-16    The Kingdom, 8 episodes
 2021-08-15    Beckett
-2021-08-15    Arthdal Chronicles, 1 season, 1 episode
-2021-08-13    Navarasa, 1 season, 9 episodes
-2021-08-11    Hit & Run, 1 season, 1 episode
+2021-08-15    Arthdal Chronicles, 1 episode
+2021-08-13    Navarasa, 9 episodes
+2021-08-11    Hit & Run, 1 episode
 2021-08-08    Vivo
-2021-08-07    Mr. Sunshine, 1 season, 24 episodes
+2021-08-07    Mr. Sunshine, 24 episodes
 2021-08-07    Aftermath
 2021-08-07    The Swarm
 2021-08-02    Mimi
@@ -161,19 +263,19 @@
 2021-08-01    Fear Street Part 2, 1 episode
 2021-08-01    Outer Banks, 1 season, 5 episodes
 2021-08-01    The Vault
-2021-08-01    The Snitch Cartel: Origins, 1 season, 1 episode
-2021-07-30    Hasmukh, 1 season, 10 episodes
-2021-07-28    Katla, 1 season, 8 episodes
+2021-08-01    The Snitch Cartel: Origins, 1 episode
+2021-07-30    Hasmukh, 10 episodes
+2021-07-28    Katla, 8 episodes
 2021-07-28    Rust Creek
 2021-07-28    The Unknown Saint
 2021-07-26    Cleverman, 1 season, 1 episode
 2021-07-26    Virgin River, 1 season, 1 episode
 2021-07-26    Kingdom, 1 season, 2 episodes
-2021-07-25    Pine Gap, 1 season, 6 episodes
-2021-07-25    Cathedral of the Sea, 1 season, 4 episodes
+2021-07-25    Pine Gap, 6 episodes
+2021-07-25    Cathedral of the Sea, 4 episodes
 2021-07-24    Blood Red Sky
-2021-07-20    Heist, 1 season, 1 episode
-2021-07-19    The Cook of Castamar, 1 season, 12 episodes
+2021-07-20    Heist, 1 episode
+2021-07-19    The Cook of Castamar, 12 episodes
 2021-07-14    Major Grom, 1 episode
 2021-07-13    The Endless Trench
 2021-07-12    Biohackers, 2 seasons, 12 episodes
@@ -182,14 +284,14 @@
 2021-07-10    Haseen Dillruba
 2021-07-08    The Mire: The Mire '97, 6 episodes
 2021-07-07    Manifest, 1 season, 4 episodes
-2021-07-07    The Day Will Come, 1 season, 3 episodes
-2021-07-07    Somos., 1 season, 6 episodes
-2021-07-02    Sisyphus, 1 season, 16 episodes
+2021-07-07    The Day Will Come, 3 episodes
+2021-07-07    Somos., 6 episodes
+2021-07-02    Sisyphus, 16 episodes
 2021-06-29    Stateless, 1 season, 6 episodes
 2021-06-28    Silver Skates
 2021-06-27    The Ice Road
 2021-06-26    The 4400, 3 seasons, 26 episodes
-2021-06-26    Ray, 1 season, 4 episodes
+2021-06-26    Ray, 4 episodes
 2021-06-23    Black Summer, 1 season, 5 episodes
 2021-06-23    Between, 1 season, 1 episode
 2021-06-23    Dark, 1 season, 2 episodes
@@ -199,10 +301,10 @@
 2021-06-17    The Gift, 3 seasons, 18 episodes
 2021-06-06    Sweet Tooth, 1 season, 1 episode
 2021-06-01    Suburra: Blood on Rome, 1 season, 1 episode
-2021-05-30    Requiem, 1 season, 2 episodes
+2021-05-30    Requiem, 2 episodes
 2021-05-30    Lucifer, 2 seasons, 4 episodes
 2021-05-29    Small Town Crime
-2021-05-27    Six Windows in the Desert, 1 season, 6 episodes
+2021-05-27    Six Windows in the Desert, 6 episodes
 2021-05-26    Master of None, 1 season, 3 episodes
 2021-05-26    The Upshaws, 1 season, 1 episode
 2021-05-24    The Clovehitch Killer
@@ -213,23 +315,21 @@
 2021-05-19    I Am All Girls
 2021-05-18    The Present
 2021-05-16    The Woman in the Window
-2021-05-15    Filinta, 2 seasons, 63 episodes
-2021-05-15    Jupiter's Legacy, 1 season, 1 episode
+2021-05-14    Filinta, 62 episodes
+2021-05-15    Jupiter's Legacy, 1 episode
 2021-05-15    Oxygen
 2021-05-06    The Fisherman's Diary
 2021-05-06    Things Heard & Seen
-2021-05-04    Fatma, 1 season, 6 episodes
+2021-05-04    Fatma, 6 episodes
 2021-04-15    Who Killed Sara?, 1 season, 2 episodes
-2021-04-14    Wolf, 1 season, 1 episode
+2021-04-14    Wolf, 1 episode
 2021-04-11    The Blacklist, 1 season, 1 episode
 2021-04-11    Al Hayba, 1 season, 2 episodes
-2021-04-09    Resurrection: Ertugrul, 5 seasons, 448 episodes
-2021-04-04    Children of Adam, 1 season, 30 episodes
+2021-04-04    Children of Adam, 30 episodes
 2021-03-30    Shtisel, 3 seasons, 33 episodes
 2021-03-21    Lost Girls
 2021-03-20    Deadly Illusions
-2021-03-18    The One, 1 season, 1 episode
-2021-03-16    The Lost Pirate Kingdom, 1 season, 1 episode
+2021-03-18    The One, 1 episode
 2021-03-16    Murder Among the Mormons, 1 season, 1 episode
 2021-03-15    Paper Lives
 2021-03-15    Dogwashers
@@ -238,36 +338,34 @@
 2021-03-13    I Care a Lot
 2021-03-12    Coven of Sisters
 2021-03-11    Menashe
-2021-03-09    Rise of Empires: Ottoman, 1 season, 6 episodes
+2021-03-09    Rise of Empires, 6 episodes
 2021-02-23    Operation Finale
 2021-01-31    Penguin Bloom
 2021-01-30    The White Tiger
 2021-01-30    The Dig
-2021-01-18    The Barrier, 1 season, 13 episodes
-2021-01-15    Surviving Death, 1 season, 1 episode
-2020-12-27    Once Upon a Time, 1 season, 30 episodes
+2021-01-18    The Barrier, 13 episodes
+2021-01-15    Surviving Death, 1 episode
+2020-12-27    Once Upon a Time, 30 episodes
 2020-12-23    The Stranger, 1 season, 8 episodes
-2020-12-23    The Midnight Sky
 2020-12-18    Ma Rainey's Black Bottom
-2020-12-19    Manhunt, 1 episode
+2020-12-19    Manhunt, 11 episodes
 2020-12-19    The Professor and the Madman
-2020-12-18    Tiny Pretty Things, 1 season, 1 episode
+2020-12-18    Tiny Pretty Things, 1 episode
 2020-12-17    The Mess You Leave Behind, 1 season, 8 episodes
 2020-12-15    Rose Island
-2020-12-14    Manhunt: Deadly Games, 1 season, 10 episodes
 2020-12-09    Blood Will Tell
-2020-12-09    Gypsy, 1 season, 1 episode
+2020-12-09    Gypsy, 1 episode
 2020-12-06    Layla M.
 2020-12-01    My Happy Family
-2020-11-28    The Last Czars, 1 season, 1 episode
+2020-11-28    The Last Czars, 1 episode
 2020-11-26    Hillbilly Elegy
 2020-11-26    The Christmas Chronicles, 1 episode
-2020-11-22    Away, 1 season, 1 episode
+2020-11-22    Away, 1 episode
 2020-11-22    Clair Obscur
 2020-11-21    Sand Storm
 2020-11-19    The Life Ahead
 2020-11-18    The Crown, 4 seasons, 40 episodes
-2020-11-18    Ethos, 1 season, 8 episodes
+2020-11-18    Ethos, 8 episodes
 2020-11-10    Undercover, 2 seasons, 11 episodes
 2020-11-10    The Trial of the Chicago 7
 2020-11-09    The Queen's Gambit, 1 season, 7 episodes
@@ -276,42 +374,40 @@
 2020-10-07    Unorthodox, 1 season, 4 episodes
 2020-10-05    Schitt's Creek, 6 seasons, 67 episodes
 2020-09-26    Enola Holmes
-2020-09-26    Ratched, 1 season, 1 episode
+2020-09-26    Ratched, 1 episode
 2020-09-20    The Social Dilemma
 2020-04-13    Code 8
-2020-04-10    The Letter for the King, 1 season, 1 episode
-2020-04-10    Freud, 1 season, 3 episodes
+2020-04-10    The Letter for the King, 1 episode
+2020-04-10    Freud, 3 episodes
 2020-04-06    Making Unorthodox
 2020-04-02    Tiger King, 2 episodes
-2020-03-16    The Valhalla Murders, 1 season, 1 episode
+2020-03-16    The Valhalla Murders, 1 episode
 2020-03-13    Freaks
-2020-02-28    I Am Not Okay With This, 1 season, 6 episodes
+2020-02-28    I Am Not Okay With This, 6 episodes
 2020-02-22    The Last Thing He Wanted
-2020-02-19    Wu Assassins, 1 season, 1 episode
-2020-02-17    Damnation, 1 season, 10 episodes
+2020-02-19    Wu Assassins, 1 episode
+2020-02-17    Damnation, 10 episodes
 2020-02-16    Godless, 1 season, 7 episodes
-2020-02-16    Ares, 1 season, 3 episodes
+2020-02-16    Ares, 3 episodes
 2020-02-16    Night on Earth, 1 season, 1 episode
 2020-02-14    The Silent War
 2020-02-13    The Coldest Game
 2020-02-10    The Ballad of Lefty Brown
 2020-02-08    Horse Girl
-2020-02-07    Omniscient, 1 season, 6 episodes
-2020-02-05    Ragnarok, 1 season, 6 episodes
-2020-01-26    October Faction, 1 season, 9 episodes
+2020-02-07    Omniscient, 6 episodes
+2020-01-26    October Faction, 9 episodes
 2020-01-25    Dolemite Is My Name
 2020-01-18    A Fall from Grace
-2020-01-17    Dracula, 1 season, 3 episodes
+2020-01-17    Dracula, 3 episodes
 2020-01-15    Anne with an E, 3 seasons, 27 episodes
-2020-01-04    Messiah, 1 season, 10 episodes
-2020-01-04    Thieves of the Wood, 1 season, 10 episodes
-2020-01-02    The Bonfire of Destiny, 1 season, 8 episodes
+2020-01-04    Messiah, 10 episodes
+2020-01-04    Thieves of the Wood, 10 episodes
+2020-01-02    The Bonfire of Destiny, 8 episodes
 2019-12-23    The Two Popes
 2019-12-21    The End of the F***ing World, 2 seasons, 10 episodes
 2019-12-19    The Spy, 1 season, 4 episodes
 2019-12-19    6 Underground
 2019-12-18    Don't F**k with Cats: Hunting an Internet Killer, 1 season, 1 episode
-2019-12-17    Peaky Blinders, 5 seasons, 30 episodes
 2019-12-10    It Comes at Night
 2019-12-10    Sweet Virginia
 2019-12-09    Marriage Story
@@ -319,11 +415,11 @@
 2019-12-08    In the Shadow of the Moon
 2019-12-07    Shot Caller
 2019-12-06    Cut Bank
-2019-12-06    V Wars, 1 season, 10 episodes
+2019-12-06    V Wars, 10 episodes
 2019-12-05    Mythomaniac, 1 season, 4 episodes
 2019-12-05    Earthquake Bird
-2019-12-02    Living with Yourself, 1 season, 5 episodes
-2019-12-01    The Royal House of Windsor, 1 season, 1 episode
+2019-12-02    Living with Yourself, 5 episodes
+2019-12-01    The Royal House of Windsor, 1 episode
 2019-11-30    The Irishman
 2019-11-24    The Family, 1 season, 5 episodes
 2019-11-24    The Laundromat
@@ -334,7 +430,7 @@
 2019-07-18    4L
 2019-07-02    Family Business, 1 season, 6 episodes
 2019-06-24    Elisa & Marcela
-2019-06-22    Unit 42, 1 season, 10 episodes
+2019-06-22    Unit 42, 10 episodes
 2019-06-22    The Wolf's Call
 2019-06-17    Rolling Thunder Revue, 1 episode
 2019-06-16    Murder Mystery
@@ -351,16 +447,16 @@
 2019-05-24    SGT. Will Gardner
 2019-05-13    Wine Country
 2019-05-13    Roswell, New Mexico, 1 season, 1 episode
-2019-05-13    The Society, 1 season, 1 episode
-2019-05-10    Colony, 1 season, 1 episode
+2019-05-13    The Society, 1 episode
+2019-05-10    Colony, 1 episode
 2019-05-06    Dead to Me, 1 season, 1 episode
 2019-05-01    Hidden in Plain Sight
 2019-04-30    Shattered Memories
 2019-04-27    Furthest Witness
 2019-04-27    Kon-Tiki
 2019-04-27    Someone Great
-2019-04-26    Case, 1 season, 1 episode
-2019-04-25    Rectify, 4 seasons, 24 episodes
+2019-04-26    Case, 1 episode
+2019-04-22    Rectify, 6 episodes
 2019-04-25    Imposters, 1 season, 1 episode
 2019-04-25    A Fortunate Man
 2019-04-22    Grass Is Greener
@@ -382,18 +478,18 @@
 2019-04-09    Observe and Report
 2019-04-09    The Trust
 2019-04-08    Valkyrie
-2019-04-08    Osmosis, 1 season, 1 episode
+2019-04-08    Osmosis, 1 episode
 2019-04-08    Backfire
 2019-04-08    Echo Park
-2019-04-07    Quicksand, 1 season, 6 episodes
+2019-04-07    Quicksand, 6 episodes
 2019-04-07    22 July
 2019-04-06    Fracture
-2019-04-05    Bitter Daisies, 1 season, 6 episodes
+2019-04-05    Bitter Daisies, 6 episodes
 2019-04-05    Unicorn Store
 2019-04-04    Middle Man
 2019-04-03    Little Birds
 2019-04-03    Comedians in Cars Getting Coffee, 4 episodes
-2019-04-02    Traitors, 1 season, 6 episodes
+2019-04-02    Traitors, 6 episodes
 2019-04-02    Brave New Jersey
 2019-04-01    The Riot Club
 2019-04-01    Frank and Cindy
@@ -406,7 +502,7 @@
 2019-03-30    Certain Women
 2019-03-30    Donald Cried
 2019-03-29    The Highwaymen
-2019-03-28    Father Brown, 1 season, 1 episode
+2019-03-28    Father Brown, 1 episode
 2019-03-27    Bitch
 2019-03-27    Hellion
 2019-03-26    The Dirt
@@ -423,7 +519,7 @@
 2019-03-19    An Interview with God
 2019-03-19    Girl
 2019-03-18    The Polka King
-2019-03-17    Dexter, 8 seasons, 95 episodes
+2019-03-12    Dexter, 12 episodes
 2019-03-17    Room for Rent
 2019-03-17    Apollo 18
 2019-03-17    Triple Frontier
@@ -452,7 +548,7 @@
 2019-03-01    City of Tiny Lights
 2019-03-01    God's Pocket
 2019-03-01    The Boy Who Harnessed the Wind
-2019-03-01    Northern Rescue, 1 season, 2 episodes
+2019-03-01    Northern Rescue, 2 episodes
 2019-02-28    The Interview
 2019-02-27    Madame Bovary
 2019-02-27    As I Lay Dying
@@ -462,7 +558,7 @@
 2019-02-25    Rebellion, 2 seasons, 10 episodes
 2019-02-24    Paddleton
 2019-02-24    The Master
-2019-02-23    To the Ends of the Earth, 1 season, 3 episodes
+2019-02-23    To the Ends of the Earth, 3 episodes
 2019-02-23    Knightfall, 1 season, 2 episodes
 2019-02-23    The Photographer Of Mauthausen
 2019-02-22    The Red Violin
@@ -471,7 +567,6 @@
 2019-02-21    Alone in Berlin
 2019-02-20    Okja
 2019-02-20    Devil's Bride
-2019-02-20    I Don't Feel at Home in This World Anymore
 2019-02-19    The Endless
 2019-02-19    ROMA
 2019-02-19    Spectral
@@ -496,17 +591,15 @@
 2019-02-09    Skyline
 2019-02-08    The Discovery
 2019-02-07    6 Souls
-2019-02-06    Altered Carbon, 1 season, 1 episode
-2019-02-06    Mars, 1 season, 1 episode
+2019-02-06    Mars, 1 episode
 2019-02-06    Await Further Instructions
-2019-02-05    The Frankenstein Chronicles, 2 seasons, 12 episodes
+2019-02-04    The Frankenstein Chronicles, 6 episodes
 2019-02-05    Viking Destiny
 2019-02-05    Mute
 2019-02-05    Agatha and the Truth of Murder
 2019-02-03    Velvet Buzzsaw
 2019-02-01    Medici, 1 episode
 2019-02-01    The Beyond
-2019-02-01    Russian Doll, 1 season, 8 episodes
 2019-01-31    Ram Dass, Going Home
 2019-01-31    What Happened to Monday
 2019-01-30    Patria

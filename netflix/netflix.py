@@ -6,6 +6,7 @@ import fileinput
 import re
 import time
 from pathlib import Path
+from typing import Any, Iterator
 
 
 class Netflix:
@@ -26,20 +27,18 @@ class Netflix:
         self.options = options
         # self.histogram = {x: 0 for x in range(1, 6)}
 
-    def print_report(self):
+    def print_report(self) -> None:
         """Read netfile history `file` and print report to `stdout`."""
 
         titles = self.read_history_file()
         self.report(titles)
 
-    def read_history_file(self):
+    def read_history_file(self) -> dict[str, dict[str, Any]]:
         """Docstring."""
 
-        titles = {}  # return this
-        for title, date in csv.reader(fileinput.input(self.options.file)):
+        titles: dict[str, dict[str, Any]] = {}  # return this
 
-            if title == "Title" and date == "Date":
-                continue
+        for _key, title, date in sorted(self._readline(), key=lambda x: x[0], reverse=True):
 
             title, season, episode = self._parse_title(title)
 
@@ -51,11 +50,24 @@ class Netflix:
                 title2[season] = {}
                 season2 = title2[season]
 
-            season2[episode] = time.strftime("%Y-%m-%d", time.strptime(date, "%m/%d/%y"))
+            season2[episode] = date
 
         return titles
 
-    def _parse_title(self, title):
+    def _readline(self) -> Iterator[tuple[str, str, str]]:
+        """Docstring."""
+
+        # Read and parse all csv files, filter out headers,
+        # and prepare to sort the lines by date.
+
+        for title, mdy in csv.reader(fileinput.input(self.options.file)):
+            if title == "Title" and mdy == "Date":
+                continue
+            ymd = time.strftime("%Y-%m-%d", time.strptime(mdy, "%m/%d/%y"))
+            key = f"{ymd}-{fileinput.filelineno():05}"
+            yield (key, title, ymd)
+
+    def _parse_title(self, title: str) -> tuple[str, str, str]:
 
         parts = title.split(self.IFS)
         assert 1 <= len(parts) <= 5
@@ -80,17 +92,20 @@ class Netflix:
             else:
                 title_parts.append(part)
 
-        title = self.IFS.join(title_parts)
-        if not episode:
-            episode = self.IFS.join(subtitle_parts)
-        # else:
-        #     assert len(subtitle_parts) == 0
+        if not season and not episode and len(title_parts) > 1:
+            title = title_parts[0]
+            episode = self.IFS.join(title_parts[1:])
+
+        else:
+            title = self.IFS.join(title_parts)
+            if not episode:
+                episode = self.IFS.join(subtitle_parts)
 
         return title, season, episode
 
     # -------------------------------------------------------------------------------
 
-    def report(self, titles):
+    def report(self, titles: dict[str, dict[str, Any]]) -> None:
         """Print netflix history report."""
 
         filtered = (
@@ -160,6 +175,6 @@ class Netflix:
     # -------------------------------------------------------------------------------
 
     @staticmethod
-    def _pluralize(number, thing):
+    def _pluralize(number: int, thing: str) -> str:
         """Return string that describes some number of things."""
         return str(number) + " " + thing + ("s" if number != 1 else "")

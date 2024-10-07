@@ -60,7 +60,7 @@ class NetflixCLI(BaseCLI):
             "file",
             default=Netflix.DEFAULT_DATA_FILE,
             metavar="FILE",
-            nargs="?",
+            nargs="*",
             help="read from `FILE`, use `-` for `stdin`",
         )
         self.add_default_to_help(arg)
