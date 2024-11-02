@@ -6,6 +6,8 @@ from libcli import BaseCLI
 
 from netflix.netflix import Netflix
 
+__all__ = ["NetflixCLI"]
+
 
 class NetflixCLI(BaseCLI):
     """Command line interface."""
@@ -18,7 +20,7 @@ class NetflixCLI(BaseCLI):
     def init_parser(self) -> None:
         """Initialize argument parser."""
 
-        self.parser = self.ArgumentParser(
+        self.ArgumentParser(
             prog=__package__,
             description="Print list of Titles, number of Seasons and total number of Episodes.",
         )
