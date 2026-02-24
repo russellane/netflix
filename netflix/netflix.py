@@ -39,8 +39,8 @@ class Netflix:
         titles: dict[str, dict[str, Any]] = {}  # return this
 
         for _key, title, date in sorted(self._readline(), key=lambda x: x[0], reverse=True):
-
-            title, season, episode = self._parse_title(title)
+            # PLW2901: title is re-parsed from its original value into (title, season, episode).
+            title, season, episode = self._parse_title(title)  # noqa: PLW2901
 
             if (title2 := titles.get(title)) is None:
                 titles[title] = {}
@@ -60,7 +60,8 @@ class Netflix:
         # Read and parse all csv files, filter out headers,
         # and prepare to sort the lines by date.
 
-        for title, mdy in csv.reader(fileinput.input(self.options.file)):
+        # SIM115: fileinput.input() manages its own lifetime and has no context manager protocol.
+        for title, mdy in csv.reader(fileinput.input(self.options.file)):  # noqa: SIM115
             if title == "Title" and mdy == "Date":
                 continue
             ymd = time.strftime("%Y-%m-%d", time.strptime(mdy, "%m/%d/%y"))
@@ -68,9 +69,9 @@ class Netflix:
             yield (key, title, ymd)
 
     def _parse_title(self, title: str) -> tuple[str, str, str]:
-
         parts = title.split(self.IFS)
-        assert 1 <= len(parts) <= 5
+        # PLR2004: 5 is the maximum number of ": "-separated fields in the Netflix title format.
+        assert 1 <= len(parts) <= 5  # noqa: PLR2004
         # self.histogram[len(parts)] += 1
 
         title_parts = []
@@ -112,26 +113,23 @@ class Netflix:
             self.options.movies_only or self.options.series1_only or self.options.series2_only
         )
 
-        # pylint: disable=too-many-nested-blocks
-
         for title, seasons in titles.items():
             if episodes := seasons.get(""):
                 if date := episodes.get(""):
                     # movie
                     if not filtered or self.options.movies_only:
                         print(date + self.INDENT + title)
-                else:
-                    # series, (no seasons), episodes
-                    if not filtered or self.options.series1_only:
-                        date = max(list(episodes.values()))
-                        print(
-                            date
-                            + self.INDENT
-                            + self.OFS.join([title, self._pluralize(len(episodes), "episode")])
-                        )
-                        if self.options.episodes:
-                            for episode, date in episodes.items():
-                                print(date + self.INDENT + self.INDENT + episode)
+                # series, (no seasons), episodes
+                elif not filtered or self.options.series1_only:
+                    date = max(list(episodes.values()))
+                    print(
+                        date
+                        + self.INDENT
+                        + self.OFS.join([title, self._pluralize(len(episodes), "episode")])
+                    )
+                    if self.options.episodes:
+                        for episode, date in episodes.items():
+                            print(date + self.INDENT + self.INDENT + episode)
 
             # series, seasons, episodes
             elif not filtered or self.options.series2_only:

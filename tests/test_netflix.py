@@ -41,5 +41,4 @@ def test_netflix(basename, monkeypatch, capsys) -> None:  # type: ignore
 
 
 def test_episodes() -> None:
-
     main(["--episodes"])
